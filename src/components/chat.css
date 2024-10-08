@@ -9,7 +9,7 @@
 }
 
 .chat-header {
-    background: red;
+    background: var(--mahindra);
     padding: 16px 0;
     text-align: center;
 }
