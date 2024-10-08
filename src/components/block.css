@@ -12,7 +12,7 @@
     height: 120px; 
     width: 150px; 
     background: var(--mahindra);
-    main-box-sizing: border-main-box;
+    box-sizing: border-main-box;
     padding: 15px; 
     transition: .5s;
     overflow: hidden;
@@ -48,7 +48,7 @@
 	border: 5px solid var(--white-color);
 	opacity: 0;
 	transition: .5s;
-	main-box-sizing: border-main-box;
+	box-sizing: border-main-box;
 }
 
 .main-box:before {
